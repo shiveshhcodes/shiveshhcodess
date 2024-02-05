@@ -1,7 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IxcTRtdTRzMTNkNDM3cjV0ajlxNXk2ajh0dHZqdzMzdWJleTZoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Shiveshhhhhhh</h1>
 <h3 align="center">Passionate Young Dark Knight Coder Exploring The Tech Realm With Love For Coding. Embarking On A Journey To Master The Art Of Programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshhcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshhcodes" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiveshhcodes" alt="shiveshhcodes" /></a> </p>
 <p align="left"> <a href="https://twitter.com/unfilteredshibu" target="blank"><img src="https://img.shields.io/twitter/follow/unfilteredshibu?logo=twitter&style=for-the-badge" alt="unfilteredshibu" /></a> </p>
